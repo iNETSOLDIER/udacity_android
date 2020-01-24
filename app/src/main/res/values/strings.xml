@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Martin Jungbauer</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Sunt guttuses vitare ferox, rusticus accolaes. Toruss cantare, tanquam pius impositio. Sunt guttuses vitare ferox, rusticus accolaes. Toruss cantare, tanquam pius impositio.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
